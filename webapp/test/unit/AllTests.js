@@ -1,6 +1,5 @@
 sap.ui.define([
-	"./model/formatter",
-	"./controller/App"
-], function() {
+	"ui5/BestUI5Project/test/unit/controller/Main.controller"
+], function () {
 	"use strict";
 });
